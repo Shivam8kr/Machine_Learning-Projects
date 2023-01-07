@@ -1,2 +1,2 @@
-# Machine_Learning-Projects and SQL-Projects
+# Machine_Learning-Projects
 Learned Projects Online
